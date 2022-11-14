@@ -1,0 +1,241 @@
+body {
+	font-family: "American Typewriter Regular ";
+	font-size: 12px;
+	color: black;
+	text-align: center;
+	margin: 0;
+	background: #818763/*#797D66 /*#B5BD8E*/ url(../images/bg.jpg) no-repeat 0cm 2.4cm;
+}
+.top_bg {
+    height:91px;
+    background: url(../images/bg_top.gif) repeat-x;
+}
+
+#wrapper {
+	width: 920px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+a {
+	color: red;
+	text-decoration: none;
+}
+
+p {
+	color: red;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+l {
+	color: black;
+	font-size: 20px;
+}
+
+#logo {
+	float: left;
+	margin-top: -80px;
+}
+
+#menu {
+	float: right;
+	margin-top: -45px;
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+}
+
+#menu li {
+	display: block;
+	float: left;
+	margin-left: 10px;
+}
+
+#menu a {
+	color: black;
+	font-size: 27px;
+	display: block;
+	float: left;
+	padding: 5px 15px 5px 15px;
+	text-decoration: none;
+	text-transform: inherit;
+	margin-left: 10px;
+	font-family: American Typewriter Regular;/*tu zmienia czcionkę*/
+
+}
+
+#menu a:hover {
+	text-decoration: underline;
+	color: #fff;	
+	background: url(../images/bg_menu.gif) repeat-x;
+}
+
+#header {
+	width: 920px;
+	height: 310px;
+	padding-top: 60px;
+	float: left;
+}
+
+#header img {
+	margin-left: 30px;
+    border: 5px solid #FFF;
+	box-shadow: 10px 10px 5px #888;
+}
+
+#title_head {
+	float: right;
+	width: 400px;
+	font-family: Arial;
+	margin-top: -40px;
+	text-align: right;
+}
+
+#title_head h2 {
+	color: black;
+	font-size: 42px;
+	font-weight: bold;
+	font-family: American Typewriter Regular;
+	text-transform: uppercase;
+}
+
+.h2_black {
+	color: black;
+	font-size: 42px;
+	font-weight: bold;
+	font-family: American Typewriter Regular;
+	text-transform: uppercase;
+}
+
+#title_head span {
+	/*border: 5px dashed purple;*/
+	color: black;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 26px;
+	text-align: justify;
+	font-family: American Typewriter Regular;
+}
+
+.margin1 {
+	margin-left: 5px;
+}
+
+.margin2 {
+	margin-left: 40px;
+}
+
+.margin3 {
+	margin-left: 30px;
+}
+
+.margin4 {
+	margin-top: 20px;
+}
+/*-------------------------------tutaj git*/
+h2 {
+	font-family: American Typewriter Regular;
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+}
+
+#solid {
+	width: 920px;
+	float: left;
+	font-family: American Typewriter Regular;
+}/*to sa odwołania */
+
+#solid_box p {
+	font-family: American Typewriter Regular;
+	font-size: 11px;
+	text-align: left;
+	color: black;
+	/*definiuje tekst*/
+}
+
+#solid h2 {
+	color: black;
+	font-size: 18px;
+	font-weight: normal;
+	/*definije nagłówek pod muzyczką*/
+}
+
+#solid_box img {
+	margin: 0px 10px 0px 5px;
+}
+
+#solid_box {
+	width: 220px;
+	height: 80px;
+	color: black;
+	float: left;
+	text-align: justify;
+	font-family: American Typewriter Regular;
+	background: url(../images/bg_box.gif) no-repeat;
+	padding: 10px 5px 0px 5px;
+	/*definiuje pudełko na tekst*/
+}
+
+#solid_box a {
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+
+}
+
+#solid_box a:hover {
+	text-decoration: underline;
+}
+
+#box_news {
+	float: left;
+	width: 600px;
+	font-family: American Typewriter Regular;
+	padding-right: 30px;
+	/*tutaj opis pod muzyczką*/
+}
+
+#box_news h2 {
+	font-size: 35px;
+	text-transform: none;
+	color: black;
+	font-weight: normal;
+	/*tutaj kod zmienia kolor nagłówka tekstu głównego*/
+}
+
+#box_news p {
+	color: black;
+	line-height: 22px;
+	text-align: left;
+	font-size: 18px;
+}/*zmienia kolor pod muzyczka*/
+
+.right {
+	float: right;
+}
+
+#footer {
+	width: 910px;
+	float: left;
+	border-top: 7px solid black;
+}
+
+#footer p {
+	font-size: 18px;
+	color: #999;
+}
+
+#footer a {
+	color: black;
+}
+#footer l{
+	color: black;
+	font-size: 20px;
+	font-family: American Typewriter Regular;
+}
