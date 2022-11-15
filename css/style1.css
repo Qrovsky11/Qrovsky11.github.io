@@ -145,13 +145,13 @@ h2 {
 	color: black;
 }
 
-#solid {
+.solid {
 	width: 920px;
 	float: left;
 	font-family: American Typewriter Regular;
-}/*to sa odwołania */
+}
 
-#solid_box p {
+.solid_box p {
 	font-family: American Typewriter Regular;
 	font-size: 11px;
 	text-align: left;
@@ -159,18 +159,18 @@ h2 {
 	/*definiuje tekst*/
 }
 
-#solid h2 {
+.solid h2 {
 	color: black;
 	font-size: 18px;
 	font-weight: normal;
 	/*definije nagłówek pod muzyczką*/
 }
 
-#solid_box img {
+.solid_box img {
 	margin: 0px 10px 0px 5px;
 }
 
-#solid_box {
+.solid_box {
 	width: 220px;
 	height: 80px;
 	color: black;
@@ -182,18 +182,18 @@ h2 {
 	/*definiuje pudełko na tekst*/
 }
 
-#solid_box a {
+.solid_box a {
 	color: black;
 	font-size: 14px;
 	font-weight: bold;
 
 }
 
-#solid_box a:hover {
+.solid_box a:hover {
 	text-decoration: underline;
 }
 
-#box_news {
+.box_news {
 	float: left;
 	width: 600px;
 	font-family: American Typewriter Regular;
@@ -201,7 +201,7 @@ h2 {
 	/*tutaj opis pod muzyczką*/
 }
 
-#box_news h2 {
+.box_news h2 {
 	font-size: 35px;
 	text-transform: none;
 	color: black;
@@ -209,12 +209,12 @@ h2 {
 	/*tutaj kod zmienia kolor nagłówka tekstu głównego*/
 }
 
-#box_news p {
+.box_news p {
 	color: black;
 	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-}/*zmienia kolor pod muzyczka*/
+}
 
 .right {
 	float: right;
