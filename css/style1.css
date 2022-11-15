@@ -18,12 +18,12 @@ body {
 }
 
 a {
-	color: red;
+	color: black;
 	text-decoration: none;
 }
 
 p {
-	color: red;
+	color: black;
 }
 
 a:hover {
